@@ -12,6 +12,7 @@
     "logo_initials": "bB",
     "phone": "919879843667",
     "phone_display": "+91 98798 43667",
+    "email": "bhatiatraders24@gmail.com",
     "whatsapp_message": "Hi Bhatia Buildmart, I'd like a quote.",
     "facebook_url": "https://www.facebook.com/Bhatiatraders24",
     "facebook_display": "facebook.com/Bhatiatraders24"
@@ -19,7 +20,7 @@
 
   "seo": {
     "page_title": "Bhatia Buildmart — Complete Aluminium, Steel, UPVC & Glass Solutions",
-    "meta_description": "Welcome to Bhatia Buildmart – your trusted partner for modern fabrication and interior solutions in Gharghoda Dist.Raigarh, Chhattisgarh."
+    "meta_description": "Welcome to Bhatia Buildmart – your trusted partner for modern fabrication and interior solutions in Gharghoda, Tamnar, Chhal, and Raigarh, Chhattisgarh."
   },
 
   "hero": {
@@ -27,7 +28,7 @@
     "headline_normal": "From Design to Installation - Everything",
     "headline_italic": "Under One Roof",
     "headline_end": ".",
-    "lead": "Welcome to Bhatia Buildmart – your trusted partner for modern fabrication and interior solutions in Gharghoda Dist.Raigarh, Chhattisgarh. Complete Aluminium, Steel, UPVC & Glass Solutions.",
+    "lead": "Welcome to Bhatia Buildmart – your trusted partner for modern fabrication and interior solutions in Gharghoda Dist. Raigarh, Chhattisgarh. We offer complete Aluminium, Steel, UPVC & Glass solutions.",
     "cta_primary_text": "Call Now",
     "cta_secondary_text": "View Our Work →",
     "stat_badge_number": "5000+",
@@ -82,27 +83,78 @@
     "items": [
       {
         "title": "Aluminium Solutions",
-        "description": "Modern, lightweight and stylish aluminium solutions for residential and commercial spaces."
+        "description": "Modern, lightweight, rust-resistant, and stylish aluminium solutions designed for modern residential and commercial spaces.",
+        "products": [
+          "Aluminium Windows",
+          "Aluminium Sliding Windows",
+          "Aluminium Doors",
+          "Aluminium Partitions",
+          "Office Cabins",
+          "TV Unit Panels",
+          "Living Room Partitions",
+          "Kitchen Aluminium Work",
+          "Custom Aluminium Interior Designs"
+        ]
       },
       {
         "title": "Steel Fabrication Work",
-        "description": "Strong steel fabrication solutions with premium finishing and long life."
+        "description": "Heavy-duty as well as decorative strong steel fabrication solutions with premium finishing and long life.",
+        "products": [
+          "Main Gates",
+          "Safety Gates",
+          "Steel Railings",
+          "Staircase Railings",
+          "Balcony Railings",
+          "Steel Interior Frames",
+          "Industrial Steel Work",
+          "Custom Steel Designs"
+        ]
       },
       {
         "title": "UPVC Solutions",
-        "description": "Weather-resistant and low-maintenance UPVC products for homes and offices."
+        "description": "Weather-resistant, low-maintenance UPVC products that help in reducing heat, noise, and maintenance costs.",
+        "products": [
+          "UPVC Doors",
+          "UPVC Windows",
+          "UPVC Sliding Systems",
+          "UPVC Frames",
+          "UPVC Almirahs",
+          "Custom UPVC Fittings"
+        ]
       },
       {
         "title": "Glass Solutions",
-        "description": "Premium quality glass solutions for modern interiors and industrial use."
+        "description": "Safe, stylish, and premium quality glass solutions for modern interiors, commercial partitions, and industrial use.",
+        "products": [
+          "Toughened Glass",
+          "Office Glass Partitions",
+          "Home Glass Partitions",
+          "Designer Glass",
+          "Industrial Glass",
+          "Bathroom Glass",
+          "Glass Railings",
+          "Decorative Glass Solutions"
+        ]
       },
       {
         "title": "Interior Fabrication Work",
-        "description": "From stylish home interiors to strong industrial fittings, we deliver quality work."
+        "description": "From stylish home interiors to strong industrial fittings, we deliver customized layouts that match your space.",
+        "products": [
+          "TV Panels & Partition Designs",
+          "Modular Wardrobes & Closets",
+          "Serene Backlit CNC Mandirs",
+          "Modern Architectural Fit-outs"
+        ]
       },
       {
-        "title": "TV Panels & Partitions",
-        "description": "Customised modern partition designs and TV panels according to your requirement and budget."
+        "title": "Industrial & Residential Solutions",
+        "description": "Complete customized layout options optimized for both massive warehouse projects and tailored residential settings.",
+        "products": [
+          "Office Partition Systems",
+          "Heavy Industrial Steel Shelving",
+          "Showroom Front-glazing Glass",
+          "High-grade Weatherproof Sliding Systems"
+        ]
       }
     ]
   },
@@ -113,11 +165,10 @@
     "subtext": "A look at projects delivered across Raigarh and the region. Click on any picture to view fully in detail.",
     "filter_labels": {
       "all": "All Work",
-      "wardrobe": "Wardrobes",
+      "window": "uPVC & Windows",
       "mandir": "Mandir Units",
-      "window": "Windows & Doors",
       "living": "Living & TV",
-      "dressing": "Dressing & Mirror"
+      "dressing": "Steel & Glass"
     },
     "works": [
       {
@@ -149,57 +200,15 @@
         "span": false
       },
       {
-        "cat": "mandir",
-        "title": "CNC Backlit Pooja Room Screen Door",
-        "badge": "New Release",
-        "img": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=600&q=80",
-        "span": false
-      },
-      {
-        "cat": "wardrobe",
-        "title": "Custom Hinged Wardrobe & Shelves",
-        "badge": "Fitted",
-        "img": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=600&q=80",
-        "span": false
-      },
-      {
-        "cat": "window",
-        "title": "Modern Premium Glazing Aluminium Window",
-        "badge": "Best Seller",
-        "img": "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=600&q=80",
-        "span": false
-      },
-      {
         "cat": "living",
-        "title": "Custom Floating TV Console & Floating Shelf",
+        "title": "Custom Floating TV Console & Shelf",
         "badge": "After",
         "img": "https://images.unsplash.com/photo-1618219908412-a29a1bb7b86e?auto=format&fit=crop&w=600&q=80",
         "span": false
       },
       {
-        "cat": "wardrobe",
-        "title": "Luxury Glass Sliding Closet Wardrobes",
-        "badge": "Custom Fit",
-        "img": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=800&q=80",
-        "span": true
-      },
-      {
-        "cat": "window",
-        "title": "Double Glazed uPVC Soundproofing Windows",
-        "badge": "Fitted",
-        "img": "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&w=600&q=80",
-        "span": false
-      },
-      {
-        "cat": "mandir",
-        "title": "Warm Backlit Mandir & Partition Frame",
-        "badge": "After",
-        "img": "https://images.unsplash.com/photo-1534349762230-e0cadf78f5da?auto=format&fit=crop&w=600&q=80",
-        "span": false
-      },
-      {
         "cat": "dressing",
-        "title": "Steel Pivot Custom Entrance Glass Gate",
+        "title": "Steel Pivot Entrance Custom Toughened Gate",
         "badge": "Toughened",
         "img": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=600&q=80",
         "span": false
@@ -220,8 +229,9 @@
     "promise_bullets": [
       "Customised Design Options",
       "Fast Response & Support",
-      "Quality Material",
-      "Experienced Team and Complete Installation Service"
+      "Affordable Pricing & Premium Finishing",
+      "Quality Material & Durable Construction",
+      "Experienced Team with Complete Installation Service"
     ]
   },
 
@@ -233,23 +243,23 @@
   ],
 
   "why_us": {
-    "eyebrow": "Why Choose Bhartia Buildmart?",
+    "eyebrow": "Why Choose Bhatia Buildmart?",
     "heading": "Built on craft. Trusted by thousands.",
     "reasons": [
       {
         "number": "01",
         "title": "End-to-End Solution",
-        "description": "Complete installation service. We manufacture and provide customised solutions from start to finish."
+        "description": "Complete layout, measurement, and custom installation service. We handle everything from design to final fitment."
       },
       {
         "number": "02",
         "title": "Customised Product Range",
-        "description": "Modern design options crafted to your specific requirement and budget."
+        "description": "Modern design options and structures crafted according to your budget and aesthetic preferences."
       },
       {
         "number": "03",
         "title": "Strong & Durable Material",
-        "description": "We deliver quality work with proper finishing and long-lasting products for every type of project."
+        "description": "We deliver highest-quality, rust-resistant, and weather-sealed materials with outstanding longevity."
       }
     ]
   },
@@ -304,11 +314,11 @@
     "open_hours": "8:00 a.m. – 8:00 p.m.",
     "form_services": [
       "Aluminium Solutions",
-      "Steel Fabrication",
+      "Steel Fabrication Work",
       "UPVC Solutions",
       "Glass Solutions",
-      "Interior Fabrication",
-      "Other / Not sure"
+      "Interior Fabrication Work",
+      "Industrial & Residential Solutions"
     ]
   },
 
