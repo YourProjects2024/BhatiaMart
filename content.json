@@ -8,7 +8,7 @@
 
   "brand": {
     "name": "Bhatia Buildmart",
-    "tagline": "Aluminium · Steel · uPVC · Glass",
+    "tagline": "A venture of Bhatia Traders",
     "logo_initials": "bB",
     "phone": "919879843667",
     "phone_display": "+91 98798 43667",
@@ -18,26 +18,27 @@
   },
 
   "seo": {
-    "page_title": "Bhatia Buildmart — Aluminium, uPVC, Steel & Glass Solutions | Raigarh",
-    "meta_description": "Bhatia Buildmart — End-to-end customised interiors in Raigarh, CG. uPVC doors & windows, aluminium fabrication, modular wardrobes, pooja units, TV units, glass & steel. 5000+ happy clients."
+    "page_title": "Bhatia Buildmart — Complete Aluminium, Steel, UPVC & Glass Solutions",
+    "meta_description": "Welcome to Bhatia Buildmart – your trusted partner for modern fabrication and interior solutions in Gharghoda Dist.Raigarh, Chhattisgarh."
   },
 
   "hero": {
-    "eyebrow": "Gharghoda · Tamnar · Chhal · Raigarh, CG",
-    "headline_normal": "Spaces that go from",
-    "headline_italic": "ordinary",
-    "headline_end": "to extraordinary.",
-    "lead": "End-to-end customised interiors in aluminium, uPVC, steel & glass — designed, fabricated and fitted by Bhatia Buildmart.",
+    "eyebrow": "Gharghoda · Tamnar · Chhal · Raigarh",
+    "headline_normal": "From Design to Installation - Everything",
+    "headline_italic": "Under One Roof",
+    "headline_end": ".",
+    "lead": "Welcome to Bhatia Buildmart – your trusted partner for modern fabrication and interior solutions in Gharghoda Dist.Raigarh, Chhattisgarh. Complete Aluminium, Steel, UPVC & Glass Solutions.",
     "cta_primary_text": "Call Now",
     "cta_secondary_text": "View Our Work →",
     "stat_badge_number": "5000+",
     "stat_badge_label": "Happy Clients",
     "material_tags": [
-      "uPVC Doors & Windows",
-      "Aluminium Fabrication",
-      "Modular Wardrobes",
-      "Glass & Mirror",
-      "Steel Solutions"
+      "Aluminium Doors & Windows",
+      "Aluminium Partitions",
+      "Steel Gates & Railings",
+      "UPVC Frames",
+      "Toughened Glass",
+      "Interior Fabrication"
     ],
     "hero_images": [
       {
@@ -65,43 +66,43 @@
 
   "marquee": {
     "items": [
-      "Customised Design",
-      "Premium Materials",
-      "On-Time Fitting",
-      "5000+ Happy Clients",
       "End-to-End Solution",
-      "Free Site Visit"
+      "Customised Product Range",
+      "Strong & Durable Material",
+      "Modern Design Options",
+      "Expert Installation Team",
+      "5000+ Happy Clients"
     ]
   },
 
   "services": {
-    "eyebrow": "What We Do",
-    "heading": "One team for your entire fit-out.",
-    "subtext": "From the first measurement to the final polish — we design, manufacture and install every element of your space in-house.",
+    "eyebrow": "Our Product Categories",
+    "heading": "What We Offer",
+    "subtext": "We manufacture and provide customised solutions for Aluminium, Steel, UPVC and Glass work for homes, offices, shops, industries and commercial spaces.",
     "items": [
       {
-        "title": "uPVC Doors & Windows",
-        "description": "Weather-sealed, sound-resistant uPVC and WPVC systems with smooth sliding and mosquito mesh options."
+        "title": "Aluminium Solutions",
+        "description": "Modern, lightweight and stylish aluminium solutions for residential and commercial spaces."
       },
       {
-        "title": "Aluminium Fabrication",
-        "description": "Durable aluminium partitions, windows and frames — engineered for strength and a clean modern finish."
+        "title": "Steel Fabrication Work",
+        "description": "Strong steel fabrication solutions with premium finishing and long life."
       },
       {
-        "title": "Modular Wardrobes",
-        "description": "Sliding & hinged wardrobes with smart internal storage, tailored to your room and your lifestyle."
+        "title": "UPVC Solutions",
+        "description": "Weather-resistant and low-maintenance UPVC products for homes and offices."
       },
       {
-        "title": "Pooja & Mandir Units",
-        "description": "Backlit CNC-cut mandir designs that bring a serene, luminous centrepiece to your home."
+        "title": "Glass Solutions",
+        "description": "Premium quality glass solutions for modern interiors and industrial use."
       },
       {
-        "title": "TV & Living Units",
-        "description": "Statement TV panels, display units and full living-room joinery built around how you live."
+        "title": "Interior Fabrication Work",
+        "description": "From stylish home interiors to strong industrial fittings, we deliver quality work."
       },
       {
-        "title": "Glass, Mirror & Steel",
-        "description": "Toughened glass, designer mirrors, dressing units and trending stainless-steel door designs."
+        "title": "TV Panels & Partitions",
+        "description": "Customised modern partition designs and TV panels according to your requirement and budget."
       }
     ]
   },
@@ -214,13 +215,13 @@
     "after_image": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=1000&q=80",
     "after_image_alt": "After Installation by Bhatia Buildmart",
     "promise_eyebrow": "The Bhatia Promise",
-    "promise_heading": "We don't just fit products — we rethink the whole space.",
-    "promise_description": "Every project starts with a free site visit and ends only when you're delighted. Drag the slider to see how a tired construction area becomes a stunning glazed architectural feature.",
+    "promise_heading": "We believe every customer deserves strong quality, clean finishing and long-lasting products.",
+    "promise_description": "Whether it is a new home, office setup, showroom or industrial project we provide solutions according to your requirement and budget.",
     "promise_bullets": [
-      "Free measurement & design consultation at your home",
-      "Customised to your space, budget and taste",
-      "In-house fabrication for quality you can trust",
-      "Clean, on-time installation with after-sales support"
+      "Customised Design Options",
+      "Fast Response & Support",
+      "Quality Material",
+      "Experienced Team and Complete Installation Service"
     ]
   },
 
@@ -232,75 +233,88 @@
   ],
 
   "why_us": {
-    "eyebrow": "Why Bhatia Buildmart",
+    "eyebrow": "Why Choose Bhartia Buildmart?",
     "heading": "Built on craft. Trusted by thousands.",
     "reasons": [
       {
         "number": "01",
         "title": "End-to-End Solution",
-        "description": "Design, material, fabrication and fitting — handled by one accountable team, so nothing falls between the cracks."
+        "description": "Complete installation service. We manufacture and provide customised solutions from start to finish."
       },
       {
         "number": "02",
-        "title": "Fully Customised",
-        "description": "No off-the-shelf compromises. Every unit is sized and styled for your exact space and how you'll use it."
+        "title": "Customised Product Range",
+        "description": "Modern design options crafted to your specific requirement and budget."
       },
       {
         "number": "03",
-        "title": "Premium Materials",
-        "description": "Genuine uPVC, aluminium, steel and glass that look great on day one and hold up for years."
+        "title": "Strong & Durable Material",
+        "description": "We deliver quality work with proper finishing and long-lasting products for every type of project."
       }
     ]
   },
 
   "testimonials": {
-    "eyebrow": "Client Love",
-    "heading": "What our 5000+ clients say.",
+    "eyebrow": "What Our Clients Say",
+    "heading": "Trusted by 5000+ Happy Clients",
     "reviews": [
       {
         "stars": "★★★★★",
-        "text": "Our mandir unit turned out more beautiful than we imagined. The backlit work is stunning at night.",
-        "name": "Ramesh Patel",
-        "location": "Raigarh",
-        "avatar_initial": "R"
+        "text": "Very good finishing and quality work. We got aluminium windows and partitions done for our home. The finishing and fitting were excellent.",
+        "name": "Atul Sidar",
+        "location": "Gharghoda",
+        "avatar_initial": "A"
       },
       {
         "stars": "★★★★★",
-        "text": "Replaced all our windows with uPVC sliding ones. No more dust and noise — and the finish is spotless.",
-        "name": "Sunita Verma",
-        "location": "Tamnar",
+        "text": "Strong and modern steel gate design. The team completed our steel gate and railing work on time. Material quality is very strong.",
+        "name": "Jeevan Rathia",
+        "location": "Gharghoda",
+        "avatar_initial": "J"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "Best UPVC work in our area. We installed UPVC windows in our office. The look is modern and maintenance is very easy.",
+        "name": "Shikar Agrawal",
+        "location": "Raigarh",
         "avatar_initial": "S"
       },
       {
         "stars": "★★★★★",
-        "text": "The sliding wardrobe fits our small room perfectly. Great advice, fair price, neat installation.",
-        "name": "Anil Sahu",
-        "location": "Gharghoda",
-        "avatar_initial": "A"
+        "text": "Professional glass installation service. Toughened glass fitting was done properly with clean finishing. Very satisfied with the work.",
+        "name": "Vipin Singhal",
+        "location": "Chhal",
+        "avatar_initial": "V"
+      },
+      {
+        "stars": "★★★★★",
+        "text": "Good service and reasonable pricing. They explain every detail properly and provide customised solutions according to budget.",
+        "name": "Industrial Client",
+        "location": "Raigarh",
+        "avatar_initial": "I"
       }
     ]
   },
 
   "contact": {
     "eyebrow": "Get In Touch",
-    "heading": "Let's transform your space.",
-    "subtext": "Call us or send a quick message — we'll arrange a free site visit at a time that suits you.",
-    "address": "Gharghoda, Tamnar, Chhal — Raigarh, Chhattisgarh",
-    "open_hours": "Every day · 8:00 AM – 8:00 PM",
+    "heading": "Looking for Aluminium, Steel, UPVC or Glass work?",
+    "subtext": "Call us today to discuss your requirements and get the right solution for your space. Whether your requirement is small or large, we focus on quality work, strong material and customer satisfaction.",
+    "address": "Gharghoda, Tamnar, Chhal, Raigarh, Chhattisgarh",
+    "open_hours": "8:00 a.m. – 8:00 p.m.",
     "form_services": [
-      "uPVC Doors & Windows",
-      "Aluminium Fabrication",
-      "Modular Wardrobe",
-      "Pooja / Mandir Unit",
-      "TV / Living Unit",
-      "Glass / Mirror / Steel",
+      "Aluminium Solutions",
+      "Steel Fabrication",
+      "UPVC Solutions",
+      "Glass Solutions",
+      "Interior Fabrication",
       "Other / Not sure"
     ]
   },
 
   "footer": {
-    "about_text": "End-to-end customised interiors and fittings, crafted with care for 5000+ happy homes across Raigarh, Chhattisgarh.",
+    "about_text": "We manufacture and provide customised solutions for Aluminium, Steel, UPVC and Glass work for homes, offices, shops, industries and commercial spaces.",
     "copyright": "Bhatia Buildmart. All rights reserved.",
-    "credit": "Crafted with care · Raigarh, CG"
+    "credit": "Service Areas: Gharghoda | Tamnar | Chhal | Raigarh | Nearby Areas of Chhattisgarh"
   }
 }

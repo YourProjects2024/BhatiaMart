@@ -808,13 +808,14 @@ function applyContent(d) {
   const tm = d.testimonials;
   document.querySelector(".testi .eyebrow").textContent = tm.eyebrow;
   document.querySelector(".testi h2").textContent = tm.heading;
-  const testiGrid = document.querySelector(".testi-grid");
-  testiGrid.innerHTML = "";
-  tm.reviews.forEach(r => {
-    const card = document.createElement("div");
-    card.className = "quote reveal";
-    card.innerHTML = `<div class="stars">${r.stars}</div><p>"${r.text}"</p><div class="who"><div class="av">${r.avatar_initial}</div><div><b>${r.name}</b><small>${r.location}</small></div></div>`;
-    testiGrid.appendChild(card);
+  const quoteCards = document.querySelectorAll(".testi-grid .quote");
+  tm.reviews.forEach((r, i) => {
+    if (!quoteCards[i]) return;
+    quoteCards[i].querySelector(".stars").textContent = r.stars;
+    quoteCards[i].querySelector("p").textContent = `"${r.text}"`;
+    quoteCards[i].querySelector(".av").textContent = r.avatar_initial;
+    quoteCards[i].querySelector("b").textContent = r.name;
+    quoteCards[i].querySelector("small").textContent = r.location;
   });
 
   /* ---- CONTACT ---- */
